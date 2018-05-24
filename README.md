@@ -37,6 +37,7 @@ git pull origin master    #将数据拉回本地
 git push -u origin master    #将数据提交到gitlab
 ```
 *5:其他命令*
+-----------
 ```
 git add readme.txt    #将文件放入暂存区
 git commit -m "hello,world"    #文件提交说明
